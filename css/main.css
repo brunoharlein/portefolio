@@ -96,6 +96,7 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
 /*Start global Classes*/
 
 /* 100% width picture */
@@ -103,6 +104,53 @@ textarea {
 {
   width: 100%
 }
+
+.pbackground
+{
+  background-color: 
+}
+
+/* end global classes */
+
+/* !!!!!!!!!!!!!!!!!!!!!start commun rules */
+
+/* start font page */
+h1, h2
+{
+  font-family: 'Roboto', sans-serif;
+}
+h3, h4, h5
+{
+  font-family: 'Encode Sans Condensed', sans-serif;
+}
+p
+{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+/* end font page */
+
+/*!!!!!!!!!!!!!!!!!!!!!!! end commun rules */
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!template header css */
+
+/* background color header */
+.header
+{
+  background: linear-gradient(to right, #909CC2 , #B1EDE8);
+}
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!end template header css */
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! start template footer css */
+.footer
+{
+  background: linear-gradient(to right, #909CC2 , #B1EDE8);
+}
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!end template footer css */
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!start nav template css */
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!end nav template css */
+
 
 
 
